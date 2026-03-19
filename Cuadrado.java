@@ -5,3 +5,5 @@ public Cuadrado (double x, double y, Color color, double lado){
 super (x, y, color, lado, lado);
 }
 }
+
+// Cambio realizado en la rama master
